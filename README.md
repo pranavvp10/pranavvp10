@@ -1,6 +1,9 @@
 ### Hi there 👋
-I'm Pranav V P.I’m an enthusiastic and aspiring Software Developer, with an avid passion for Machine Learning and Web Development using Flask. Other than this I'm also interested in Sports Analytics.
+**I'm Pranav V P.**
 
+**I’m an enthusiastic and aspiring Software Developer, with an avid passion for Machine Learning and Web Development using Flask. Other than this I'm also interested in Sports Analytics.**
+
+I’m currently learning Flask Web Framework, React Native, Web Scraping and Deep Learning
 
 
 
