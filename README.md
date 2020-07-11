@@ -1,4 +1,8 @@
 ### Hi there 👋
+I'm Pranav V P.I’m an enthusiastic and aspiring Software Developer, with an avid passion for Machine Learning and Web Development using Flask. Other than this I'm also interested in Sports Analytics.
+
+
+
 
 <!--
 **pranavvp10/pranavvp10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -6,7 +10,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning Flask, React Native
+- 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
