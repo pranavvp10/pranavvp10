@@ -3,7 +3,7 @@
 
 **I’m an enthusiastic and aspiring Software Developer, with an avid passion for Machine Learning and Web Development using Flask. Other than this I'm also interested in Sports Analytics.**
 
-I’m currently learning Flask Web Framework, React Native, Web Scraping and Deep Learning
+I’m currently learning Flask Web Framework, Web Scraping and Deep Learning
 
 
 
