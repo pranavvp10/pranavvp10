@@ -3,9 +3,11 @@
 
 **I’m an enthusiastic and aspiring Software Developer, with an avid passion for Machine Learning and Web Development. Other than this I'm also interested in Sports Analytics.**
 
-I’m currently learning JavaScript, React js and Node js. 
+- 🌱 I’m currently learning: JavaScript, React js and Node js. 
 
+- 📫 How to reach me: pranavvp07@gmail.com
 
+- 👯 I’m looking to collaborate on open source projects
 
 <!--
 **pranavvp10/pranavvp10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
